@@ -12,8 +12,7 @@ int main()
 
     while(1)
     {
-        //printf("Monitor desde github!\n");
-        //fflush(stdout);
+        
         sleep(3);
     }
 
